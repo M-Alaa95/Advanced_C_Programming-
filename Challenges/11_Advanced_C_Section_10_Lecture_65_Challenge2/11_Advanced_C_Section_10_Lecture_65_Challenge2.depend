@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616324477 source:e:\my career\education\online learning\udemy\advanced c programming\challenges\11_advanced_c_section_10_lecture_65_challenge2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
