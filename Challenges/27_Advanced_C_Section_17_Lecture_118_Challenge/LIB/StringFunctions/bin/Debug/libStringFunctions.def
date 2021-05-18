@@ -1,0 +1,7 @@
+EXPORTS
+    lengthOfString @1
+    numberOfCharactersInString @2
+    removeNonAlphaCharacters @3
+    strConcat @4
+    strCopy @5
+    substring @6

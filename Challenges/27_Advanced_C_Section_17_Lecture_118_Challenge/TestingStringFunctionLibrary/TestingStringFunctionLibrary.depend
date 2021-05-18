@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618753442 source:e:\my career\education\online learning\udemy\advanced c programming\challenges\27_advanced_c_section_17_lecture_118_challenge\testingstringfunctionlibrary\main.c
+	<stdlib.h>
+	<stdio.h>
+	"StringFunctions.h"
+
